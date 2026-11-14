@@ -187,4 +187,4 @@ This repository serves as the official landing page for SSH Copy ID. The softwar
 **Get the most recent version of SSH Copy ID today!**
 
 ---
-**Last updated:** 2026-11-14 10:02:01 UTC
+**Last updated:** 2026-11-14 16:56:19 UTC
